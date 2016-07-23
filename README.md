@@ -2,7 +2,7 @@
 
 [![Build status](https://img.shields.io/travis/Falkonry/falkonry-python-client.svg?style=flat-square)](https://travis-ci.org/Falkonry/falkonry-python-client)
 
-Falkonry Python Client to access [Falkonry Condition Prediction](falkonry.com) APIs
+Falkonry Python Client to access [Falkonry Condition Prediction](http://falkonry.com) APIs
 
 [Releases](https://github.com/Falkonry/falkonry-python-client/releases)
 
